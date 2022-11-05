@@ -1,0 +1,7 @@
+{
+  "name": "helpdeskApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
